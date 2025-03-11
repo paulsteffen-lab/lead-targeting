@@ -177,3 +177,6 @@ pyrightconfig.json
 
 .qodo
 .chainlit
+
+data/*
+!data/.gitkeep
