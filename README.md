@@ -1,4 +1,4 @@
-# Lead targeting 🚀
+# Lead targeting 👻
 
 ## Introduction
 
