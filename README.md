@@ -24,7 +24,7 @@ Whether you're in sales, recruiting, or networking, this system ensures you spen
 
 To simplify usage, `make` commands are available. If you don't want to use `make`, simply execute the corresponding commands in the `Makefile`.
 
-### 1. Create right environment, with dependencies
+### 1. Create virtual environment
 
 ```
 make sync
